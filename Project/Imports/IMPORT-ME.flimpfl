@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  MasterStylesheetOverride="True"
+  xml:lang="en-us"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2023-06-21T14:17:07.9905309-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/IMPORT-ME.flprj"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/IMPORT-ME.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../IMPORT-ME/Content/Attractions.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/Content/Attractions.htm" />
+    <Url
+      Source="../../../IMPORT-ME/Content/Beer.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/Content/Beer.htm" />
+    <Url
+      Source="../../../IMPORT-ME/Content/Cuisine.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/Content/Cuisine.htm" />
+    <Url
+      Source="../../../IMPORT-ME/Content/Food.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/Content/Food.htm" />
+    <Url
+      Source="../../../IMPORT-ME/Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/Content/Home.htm" />
+    <Url
+      Source="../../../IMPORT-ME/Content/Introduction.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/Content/Introduction.htm" />
+    <Url
+      Source="../../../IMPORT-ME/Content/Print-Only-Topics/Resources.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/Content/Print-Only-Topics/Resources.htm" />
+    <Url
+      Source="../../../IMPORT-ME/Content/Print-Only-Topics/Title-Page.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-ME/Content/Print-Only-Topics/Title-Page.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Attractions.htm"
+      TimeStamp="4/23/2023 9:21:06 PM" />
+    <Url
+      Source="../../Content/Beer.htm"
+      TimeStamp="5/11/2023 9:08:40 AM" />
+    <Url
+      Source="../../Content/Cuisine.htm"
+      TimeStamp="4/23/2023 9:21:06 PM" />
+    <Url
+      Source="../../Content/Food.htm"
+      TimeStamp="5/11/2023 9:08:40 AM" />
+    <Url
+      Source="../../Content/Home.htm"
+      TimeStamp="4/23/2023 9:21:06 PM" />
+    <Url
+      Source="../../Content/Introduction.htm"
+      TimeStamp="4/23/2023 9:21:06 PM" />
+    <Url
+      Source="../../Content/Print-Only-Topics/Resources.htm"
+      TimeStamp="4/23/2023 9:21:06 PM" />
+    <Url
+      Source="../../Content/Print-Only-Topics/Title-Page.htm"
+      TimeStamp="4/23/2023 9:21:06 PM" />
+  </GeneratedFiles>
+</CatapultProject>
